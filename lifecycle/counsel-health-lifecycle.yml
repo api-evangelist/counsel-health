@@ -1,0 +1,18 @@
+generated: '2026-07-18'
+method: searched
+source: https://status.counselhealth.com/
+status_page: https://status.counselhealth.com/
+status_provider: incident.io
+status_components:
+- name: App
+- name: API
+- name: Embedded App
+versioning: null          # no public versioning policy documented (developer docs gated)
+deprecation: null         # no public deprecation policy documented
+sla: null
+deprecated_operations: []
+notes: >-
+  Developer documentation at https://docs.counselhealth.com is gated (Scalar
+  login), so no public OpenAPI, versioning, or deprecation policy could be
+  captured. The status page is public and monitors the App, API, and Embedded
+  App components.
